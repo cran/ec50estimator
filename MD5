@@ -1,0 +1,14 @@
+d3a6d01fd5a256338de1dfba502e38ab *DESCRIPTION
+d6c9bd650adb917e806837a982f64b5c *LICENSE
+749562d08d23a80901928fb1b9c35110 *NAMESPACE
+9bb8840bd545988c50527b6a2b66d0f6 *R/estimate_EC50.R
+875c00f25aa4e9b878f599a9685301a2 *README.md
+7d55271cf2e0f15a6b1d838999d49c44 *build/vignette.rds
+2c8f87e9e170916c11da6e1709b92b96 *data/multi_isolate.txt
+2cfb6624368cdc6ae4aa386b18c2c982 *inst/doc/how_to_use.R
+3dddcaebc367e1b12dec34d2e48e67de *inst/doc/how_to_use.Rmd
+b2ae919382eaab47837dc56aa060a068 *inst/doc/how_to_use.html
+01748544f81eaca72b95e22f562bd402 *man/estimate_EC50.Rd
+fa90ae26e59c898827ae3e964bd285eb *man/figures/logo.png
+640f9ca76d2a7f7923d555f8472df419 *man/multi_isolate.Rd
+3dddcaebc367e1b12dec34d2e48e67de *vignettes/how_to_use.Rmd
